@@ -6,7 +6,7 @@ const Banner = () => {
     return (
         <>
 
-            <div style={{ backgroundColor: "" }}>
+            <div style={{ backgroundColor: "#F7F1E5" }}>
                 <div className="c-container-large lg:pt-8">
                     <div className="grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 py-5">
 

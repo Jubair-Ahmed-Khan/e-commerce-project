@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import cookie from "js-cookie";
 import baseUrl from "@/helpers/baseUrl";
 import Swal from "sweetalert2";

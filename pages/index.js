@@ -1,10 +1,9 @@
-import Layout from "@/components/Layout";
+import Banner from "@/components/Banner";
 
 const Home = () => {
   return (
     <>
-
-      <h2>Hello</h2>
+      <Banner />
     </>
   )
 }

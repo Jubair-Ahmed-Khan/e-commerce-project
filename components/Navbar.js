@@ -8,6 +8,7 @@ const NavBar = () => {
                 <Link href="/" className="brand-logo left">REPLIQ</Link>
                 <ul id="nav-mobile" className="right">
                     <li><Link href="/">Home</Link></li>
+                    <li><Link href="/account">Account</Link></li>
                     <li><Link href="/">Cart</Link></li>
                     <li><Link href="/login">Login</Link></li>
                     <li><Link href="/signup">Signup</Link></li>

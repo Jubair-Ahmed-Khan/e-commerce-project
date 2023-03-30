@@ -1,0 +1,17 @@
+[
+    {
+        "phone": "01678407985",
+        "password": "abcd1234",
+        "role": "admin"
+    },
+    {
+        "phone": "01523467562",
+        "password": "wxyz1234",
+        "role": "user"
+    },
+    {
+        "phone": "01521227898",
+        "password": "efgh1234",
+        "role": "user"
+    }
+]

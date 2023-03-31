@@ -54,7 +54,6 @@ const Login = () => {
             })
         }
         else {
-            //console.log("res2 === ", res2)
             cookie.set('token', res2.token);
             cookie.set('user', JSON.stringify(res2.user));
             Toast.fire({
